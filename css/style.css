@@ -238,10 +238,10 @@ header{
 }
 .w_img{
 	position: relative;
-	width: 100%;
 	margin-top: 50px;
 }
 .img_back img{
+	width: 100%;
 	display: block;
 }
 .w_text{
