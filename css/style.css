@@ -362,18 +362,18 @@ header{
 	position: absolute;
 	translate: 0;
 	opacity: 0;
-	bottom: 35%;
+	bottom: 33%;
 	background-color: white;
 	text-align: center;
 	transition: .4s;
 }
-.team_icon:hover {
+.team_item:hover .team_icon{
 	left: 0;
 	translate: 5%;
 	opacity: 1;
 }
 .team_icon li a i{
-	padding: 5px;
+	padding: 10px 5px;
 	font-size: 26px;
 	color: #8e8e8e !important;
 	border-right: 2px solid transparent;
